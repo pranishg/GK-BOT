@@ -1,0 +1,23 @@
+:voters:
+  - test 5JrvPrQegrass1234weedfuckBBvCRdjv29iDvkwn3EQYZ9jqfAHzrCyUvfbEbRkrYFC
+  
+:global:
+  # 
+  :mode: irreversible
+
+:trails:
+  :pranishg:
+    :scale_votes: 100.00 %
+    :max_age: 1440
+    :allow_upvote: true
+    :allow_downvote: true
+    :enable_comments: true
+    :skip_tags:
+      - nsfw
+      - test
+    # :only_tags:
+    #   - steemit
+
+:chain_options:
+  :chain: steem
+  :url: https://steemd.steemit.com
