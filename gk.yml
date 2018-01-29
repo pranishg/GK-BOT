@@ -1,17 +1,24 @@
 :voters:
-  - test 5JrvPrQegrass1234weedfuckBBvCRdjv29iDvkwn3EQYZ9jqfAHzrCyUvfbEbRkrYFC
+  - driverseat 5J69gSuoRX9yLfdEF3UGK3ERa8DouJdRaYWLzoBTSykKRz85BhV
+  - home-slice 5JwNKSM2A2eboL8XPCUpaJ4w3uRG6bJibDHJA5TK1e371UHziYZ
+  - lovlu 5JnDyB4RyWB3tiZkjt8BAjp1NdjptLAbUHjLfjNCQADD6EhV2nu
+  - jimmyrai28 5K4SeqDb8zU1NZyRq1dCecCTsxm9ieUmLrCd5uJhcePneCeP4gw
+  - jglake 5Jtxew8hh4oTM8djBE5tSMTfJMUP6TKvid2FJBybQfwkXzkFmVa
+  - kabibitak 5HvpAqDizWVmK5BSznDq1aSw5Z5rjjaN5zPink2sjoRgoF96Jbo
+  - rishi556 5J1ckP8qusjncbL5iq4xHKDj5V9chJH45EKATLB9hcTNB2hA1Fq
+  - lusterdoom 5J9Chs6PjNmir7TXoo8H1wK5fKzbhPtgaWQ3WLwhVL4wniMtr6d
   
 :global:
   # 
   :mode: irreversible
 
 :trails:
-  :pranishg:
+  :resteemable:
     :scale_votes: 100.00 %
     :max_age: 1440
     :allow_upvote: true
     :allow_downvote: true
-    :enable_comments: true
+    :enable_comments: false
     :skip_tags:
       - nsfw
       - test
